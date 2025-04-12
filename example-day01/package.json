@@ -1,0 +1,7 @@
+{
+  "name": "ts-node-dev-example",
+  "dependencies": {
+    "ts-node-dev": "^2.0.0",
+    "ts-node-dev-example": "file:"
+  }
+}
